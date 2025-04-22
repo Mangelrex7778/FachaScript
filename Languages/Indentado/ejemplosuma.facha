@@ -1,0 +1,6 @@
+# Declaración de variables
+Variable a = 7,01
+Variable b = 49.7
+
+# Imprimir la multiplicación de a y b con decimales
+imprimir("La División decimal de a y b es: ", divi_decimal(a, b))
